@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tart-bitar/static/css/main.512b64e6.chunk.css",
+    "main.js": "/tart-bitar/static/js/main.4e568857.chunk.js",
+    "main.js.map": "/tart-bitar/static/js/main.4e568857.chunk.js.map",
+    "runtime-main.js": "/tart-bitar/static/js/runtime-main.16779cf4.js",
+    "runtime-main.js.map": "/tart-bitar/static/js/runtime-main.16779cf4.js.map",
+    "static/js/2.525da98a.chunk.js": "/tart-bitar/static/js/2.525da98a.chunk.js",
+    "static/js/2.525da98a.chunk.js.map": "/tart-bitar/static/js/2.525da98a.chunk.js.map",
+    "static/js/3.6f3b9b5d.chunk.js": "/tart-bitar/static/js/3.6f3b9b5d.chunk.js",
+    "static/js/3.6f3b9b5d.chunk.js.map": "/tart-bitar/static/js/3.6f3b9b5d.chunk.js.map",
+    "index.html": "/tart-bitar/index.html",
+    "static/css/main.512b64e6.chunk.css.map": "/tart-bitar/static/css/main.512b64e6.chunk.css.map",
+    "static/js/2.525da98a.chunk.js.LICENSE.txt": "/tart-bitar/static/js/2.525da98a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16779cf4.js",
+    "static/js/2.525da98a.chunk.js",
+    "static/css/main.512b64e6.chunk.css",
+    "static/js/main.4e568857.chunk.js"
+  ]
+}
